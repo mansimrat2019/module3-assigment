@@ -1,0 +1,25 @@
+body {
+	background-color: black;
+	color:white;
+	padding-right:0px;
+	padding-left:0px ;
+}
+.navbar{
+	box-sizing: content-box;
+}
+
+li{
+	text-align:center;
+	align-content: center;
+
+}
+#menu {
+	margin: 30px;
+}
+
+section{
+	background-color: grey;
+	margin-bottom: 10px;
+	height:1000px;
+
+} 
